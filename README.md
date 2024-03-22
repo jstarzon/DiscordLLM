@@ -3,8 +3,8 @@
 
 
 ### Features
-- Launch any LLM model inside your Discord server
-- LLM that can answer all your questions :)
+- Deploy any LLM model inside your Discord server
+- Chat with LLM that can answer all your questions :)
 - Link between Ollama and Open-Interpreter
 - Free no need for paid API's
 
