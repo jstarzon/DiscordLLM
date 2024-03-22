@@ -6,6 +6,7 @@
 - Launch any LLM model inside your Discord server
 - LLM that can answer all your questions :)
 - Link between Ollama and Open-Interpreter
+- Free no need for paid API's
 
 ### Usage
 User can ask question on discord chat by typing
