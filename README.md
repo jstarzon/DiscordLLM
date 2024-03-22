@@ -12,6 +12,8 @@ User can ask question on discord chat by typing
 **$q [question]**
 example: $q Write phyton Fibonacci function
 
+![Usage](https://imgur.com/a/f0wQvnE)
+
 ### Configuration
 1. Download Ollama and pull your desired model
 2. Download open-interpreter "pip install open-interpreter"
