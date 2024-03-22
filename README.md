@@ -12,7 +12,7 @@ User can ask question on discord chat by typing
 **$q [question]**
 example: $q Write phyton Fibonacci function
 
-![Usage](https://imgur.com/a/f0wQvnE)
+![Usage](https://i.imgur.com/omkcbYu.png)
 
 ### Configuration
 1. Download Ollama and pull your desired model
